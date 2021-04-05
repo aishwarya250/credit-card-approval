@@ -17,3 +17,4 @@ scipy @ file:///C:/ci/scipy_1614023125644/work
 six @ file:///C:/ci/six_1605187374963/work
 Werkzeug==1.0.1
 wincertstore==0.2
+gunicorn==19.9.0
